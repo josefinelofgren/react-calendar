@@ -22,4 +22,4 @@ Default user to login:
 - Create a new user
 - Keep track of your tasks through a calendar 
 - Add new, check or delete tasks
-
+- Open up any day from the calendar to get an overview on the specifik days tasks. 
